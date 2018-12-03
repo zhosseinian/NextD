@@ -3,7 +3,7 @@
 -----   This code is adoption of NU t-sql code for oracle kindly done by Alexander Stoddard (MCW)         -----
 -----   In case of questions, please, contact MCW or NU via astoddard@mcw.edu or                          -----
 -----   alona.furmanchuk@northwestern.edu, correspondingly.                                               -----
------																				                      -----
+-----									O;HI;OIH											                      -----
 -----   All changes to this version (possibly made in future) will be listed                              ----- 
 -----  at https://github.com/kumc-bmi/nextd-study-support/commit/72a8ffc6bf63539152de16d75cf054cc42f01411 -----
 ---------------------------------------------------------------------------------------------------------------
